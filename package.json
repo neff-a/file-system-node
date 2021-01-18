@@ -1,0 +1,18 @@
+{
+  "name": "03-file-sys",
+  "version": "1.0.0",
+  "description": "calculate tables",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tables",
+    "calculate"
+  ],
+  "author": "alarconneftali",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
